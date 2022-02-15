@@ -1,0 +1,31 @@
+.contato {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contato-titulo h1 {
+    padding-top: 5rem;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+.contato-detalhado p {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 10rem auto;
+    align-items: center;
+    font-size: 1.5rem;
+}
+
+.contato-detalhado p:hover {
+    color:#9A4F2F;
+}
+
+.mapa {
+    margin: 100px auto;
+}
+
+
